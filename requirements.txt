@@ -1,0 +1,15 @@
+google-genai
+mistralai
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+langchain-mistralai
+python-dotenv
+pydantic
+requests
+numpy
+faiss-cpu
+pypdf
+langchain_huggingface
+
